@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: surveyNLP-policylab
+Version: 0.1.0
+Summary: NLP analysis for survey data
+Author: afbeltranr
+Requires-Python: >=3.8
+Requires-Dist: pandas
+Requires-Dist: bertopic
+Requires-Dist: sentence-transformers
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

@@ -1,5 +1,5 @@
-from src.modeling import train_topic_model
-from src.post_process_topic_model import extract_topic_info, assign_topics_to_docs, summarize_topics
+from modeling import train_topic_model
+from post_process_topic_model import extract_topic_info, assign_topics_to_docs, summarize_topics
 import pandas as pd
 import os
 

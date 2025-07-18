@@ -1,0 +1,301 @@
+region,group,question,response,Topic,Topic_Probability
+Caribe,Pueblos Indigenas,Que propuestas ha escuchado dentro de la comunidad?,La salud mental es ignorada personalmente hablando,13,1.0
+Orinoquia,Jovenes,Que problemas enfrenta con el acceso a servicios publicos?,Cortes de luz frecuentes,10,1.0
+Pacifico,Jovenes,Como evalua la atencion en salud mental en su zona?,Hay demoras en las citas personalmente hablando,3,1.0
+Caribe,Pueblos Indigenas,Que propuestas ha escuchado dentro de la comunidad?,No hay empleo local personalmente hablando,14,1.0
+Orinoquia,Pueblos Indigenas,Que necesidades prioritarias existen en su comunidad?,No hay empleo local personalmente hablando,14,1.0
+Pacifico,Pueblos Indigenas,Que necesidades prioritarias existen en su comunidad?,La salud mental es ignorada personalmente hablando,13,0.8183399060126799
+Pacifico,Afrocolombianos,Que propuestas ha escuchado dentro de la comunidad?,Los jovenes migran por falta de oportunidades,5,0.8080242752750106
+Caribe,Mujeres,Que necesidades prioritarias existen en su comunidad?,Cortes de luz frecuentes,10,1.0
+Pacifico,Personas Mayores,Que necesidades prioritarias existen en su comunidad?,No hay participacion comunitaria,0,1.0
+Pacifico,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,Hay demoras en las citas personalmente hablando,3,1.0
+Caribe,Jovenes,Que problemas enfrenta con el acceso a servicios publicos?,Falta de acceso al agua potable personalmente hablando,2,0.014149623095291485
+Andina,Personas Mayores,Como evalua la atencion en salud mental en su zona?,No hay empleo local personalmente hablando,14,0.649463781374166
+Pacifico,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,Hay demoras en las citas en mi comunidad,3,1.0
+Orinoquia,Afrocolombianos,Que necesidades prioritarias existen en su comunidad?,Falta de acceso al agua potable (segun mi experiencia),2,1.0
+Pacifico,Jovenes,Que necesidades prioritarias existen en su comunidad?,No hay atencion medica cerca personalmente hablando,6,0.7867200012257086
+Pacifico,Jovenes,Como evalua la atencion en salud mental en su zona?,Viviendas en mal estado personalmente hablando,7,1.0
+Andina,Jovenes,Como evalua la atencion en salud mental en su zona?,Falta de acceso al agua potable (segun mi experiencia),2,1.0
+Orinoquia,Jovenes,Que propuestas ha escuchado dentro de la comunidad?,No hay atencion medica cerca,6,1.0
+Orinoquia,Mujeres,Que problemas enfrenta con el acceso a servicios publicos?,No hay apoyo a emprendimientos,12,1.0
+Caribe,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,No hay participacion comunitaria en mi comunidad,0,0.38333493567833493
+Caribe,Personas Mayores,Como evalua la atencion en salud mental en su zona?,Cortes de luz frecuentes,10,1.0
+Caribe,Mujeres,Que necesidades prioritarias existen en su comunidad?,No hay recoleccion de basuras personalmente hablando,11,1.0
+Orinoquia,Personas Mayores,Que propuestas ha escuchado dentro de la comunidad?,Nos sentimos abandonados (segun mi experiencia),4,1.0
+Pacifico,Pueblos Indigenas,Como evalua la atencion en salud mental en su zona?,No hay apoyo a emprendimientos (segun mi experiencia),12,1.0
+Caribe,Mujeres,Que problemas enfrenta con el acceso a servicios publicos?,No hay apoyo a emprendimientos (segun mi experiencia),12,1.0
+Andina,Jovenes,Como evalua la atencion en salud mental en su zona?,Falta de confianza en las instituciones personalmente hablando,9,0.6251443161926711
+Pacifico,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,Faltan medicamentos esenciales en mi comunidad,1,1.0
+Caribe,Mujeres,Que necesidades prioritarias existen en su comunidad?,Hay demoras en las citas (segun mi experiencia),3,1.0
+Pacifico,Jovenes,Que necesidades prioritarias existen en su comunidad?,La economia informal domina,8,1.0
+Amazonas,Afrocolombianos,Que propuestas ha escuchado dentro de la comunidad?,No hay recoleccion de basuras,11,0.968346156749624
+Caribe,Personas Mayores,Que problemas enfrenta con el acceso a servicios publicos?,Faltan medicamentos esenciales,1,1.0
+Andina,Pueblos Indigenas,Que necesidades prioritarias existen en su comunidad?,No hay participacion comunitaria,0,0.9737412472273468
+Amazonas,Personas Mayores,Que problemas enfrenta con el acceso a servicios publicos?,Faltan medicamentos esenciales,1,0.9310200154373428
+Pacifico,Personas Mayores,Que problemas enfrenta con el acceso a servicios publicos?,La salud mental es ignorada en mi comunidad,13,0.755999400515777
+Orinoquia,Jovenes,Que necesidades prioritarias existen en su comunidad?,Hay demoras en las citas en mi comunidad,3,0.738491521663364
+Pacifico,Personas Mayores,Que problemas enfrenta con el acceso a servicios publicos?,Cortes de luz frecuentes en mi comunidad,10,0.5927598045816679
+Andina,Afrocolombianos,Que propuestas ha escuchado dentro de la comunidad?,Viviendas en mal estado,7,1.0
+Caribe,Mujeres,Como evalua la atencion en salud mental en su zona?,Cortes de luz frecuentes,10,0.6951721649858397
+Amazonas,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,Falta de confianza en las instituciones,9,1.0
+Caribe,Jovenes,Que problemas enfrenta con el acceso a servicios publicos?,No hay recoleccion de basuras en mi comunidad,11,1.0
+Amazonas,Mujeres,Como evalua la atencion en salud mental en su zona?,Nadie responde a nuestras solicitudes en mi comunidad,-1,0.0
+Caribe,Jovenes,Que necesidades prioritarias existen en su comunidad?,Hay demoras en las citas personalmente hablando,3,1.0
+Andina,Pueblos Indigenas,Que propuestas ha escuchado dentro de la comunidad?,La salud mental es ignorada (segun mi experiencia),13,1.0
+Pacifico,Personas Mayores,Que problemas enfrenta con el acceso a servicios publicos?,Faltan medicamentos esenciales personalmente hablando,1,1.0
+Pacifico,Jovenes,Que propuestas ha escuchado dentro de la comunidad?,Falta de acceso al agua potable personalmente hablando,2,0.014091909397223842
+Pacifico,Personas Mayores,Como evalua la atencion en salud mental en su zona?,Faltan medicamentos esenciales en mi comunidad,1,0.7433218701608636
+Andina,Jovenes,Que propuestas ha escuchado dentro de la comunidad?,Falta de acceso al agua potable,2,1.0
+Andina,Jovenes,Que propuestas ha escuchado dentro de la comunidad?,Faltan medicamentos esenciales,1,0.9969676574861553
+Andina,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,Falta de confianza en las instituciones,9,1.0
+Pacifico,Jovenes,Como evalua la atencion en salud mental en su zona?,No hay participacion comunitaria,0,1.0
+Pacifico,Jovenes,Como evalua la atencion en salud mental en su zona?,No hay atencion medica cerca,6,1.0
+Andina,Personas Mayores,Como evalua la atencion en salud mental en su zona?,La economia informal domina en mi comunidad,8,0.9556136125362198
+Andina,Jovenes,Que necesidades prioritarias existen en su comunidad?,Hay demoras en las citas personalmente hablando,3,0.9240991388675511
+Caribe,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,Viviendas en mal estado (segun mi experiencia),7,0.914572395545877
+Amazonas,Afrocolombianos,Que necesidades prioritarias existen en su comunidad?,La economia informal domina personalmente hablando,8,1.0
+Amazonas,Personas Mayores,Que necesidades prioritarias existen en su comunidad?,Faltan medicamentos esenciales,1,1.0
+Orinoquia,Afrocolombianos,Que necesidades prioritarias existen en su comunidad?,Viviendas en mal estado,7,0.9401450598111271
+Pacifico,Mujeres,Que necesidades prioritarias existen en su comunidad?,Los jovenes migran por falta de oportunidades en mi comunidad,5,0.9236548873076326
+Caribe,Pueblos Indigenas,Como evalua la atencion en salud mental en su zona?,Los jovenes migran por falta de oportunidades,5,0.9731279539817776
+Pacifico,Pueblos Indigenas,Que propuestas ha escuchado dentro de la comunidad?,Falta de confianza en las instituciones,9,0.8303215761181985
+Amazonas,Mujeres,Que necesidades prioritarias existen en su comunidad?,No hay empleo local,14,1.0
+Orinoquia,Afrocolombianos,Que propuestas ha escuchado dentro de la comunidad?,Los jovenes migran por falta de oportunidades (segun mi experiencia),5,0.9453317082883723
+Orinoquia,Afrocolombianos,Que necesidades prioritarias existen en su comunidad?,Los jovenes migran por falta de oportunidades,5,1.0
+Amazonas,Afrocolombianos,Que propuestas ha escuchado dentro de la comunidad?,Cortes de luz frecuentes (segun mi experiencia),10,0.9531933839904929
+Andina,Pueblos Indigenas,Que problemas enfrenta con el acceso a servicios publicos?,Los jovenes migran por falta de oportunidades (segun mi experiencia),5,1.0
+Caribe,Afrocolombianos,Como evalua la atencion en salud mental en su zona?,Los jovenes migran por falta de oportunidades en mi comunidad,5,1.0
+Amazonas,Pueblos Indigenas,Que problemas enfrenta con el acceso a servicios publicos?,Los jovenes migran por falta de oportunidades,5,1.0
+Caribe,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,Nos sentimos abandonados (segun mi experiencia),4,0.865249462604319
+Orinoquia,Jovenes,Que necesidades prioritarias existen en su comunidad?,La economia informal domina,8,1.0
+Amazonas,Jovenes,Que propuestas ha escuchado dentro de la comunidad?,Nadie responde a nuestras solicitudes (segun mi experiencia),-1,0.0
+Andina,Mujeres,Que necesidades prioritarias existen en su comunidad?,Faltan medicamentos esenciales,1,0.8993142015137233
+Andina,Mujeres,Como evalua la atencion en salud mental en su zona?,Falta de acceso al agua potable,2,1.0
+Caribe,Afrocolombianos,Como evalua la atencion en salud mental en su zona?,Nadie responde a nuestras solicitudes personalmente hablando,6,0.02478275845721404
+Pacifico,Pueblos Indigenas,Que necesidades prioritarias existen en su comunidad?,La economia informal domina en mi comunidad,8,1.0
+Caribe,Personas Mayores,Que necesidades prioritarias existen en su comunidad?,Faltan medicamentos esenciales en mi comunidad,1,0.9260496264258872
+Orinoquia,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,La economia informal domina,8,1.0
+Amazonas,Jovenes,Como evalua la atencion en salud mental en su zona?,Nos sentimos abandonados (segun mi experiencia),4,1.0
+Pacifico,Afrocolombianos,Que propuestas ha escuchado dentro de la comunidad?,No hay apoyo a emprendimientos,12,0.7878091352218567
+Pacifico,Pueblos Indigenas,Como evalua la atencion en salud mental en su zona?,Nos sentimos abandonados,4,0.8980186862685411
+Caribe,Jovenes,Que propuestas ha escuchado dentro de la comunidad?,Cortes de luz frecuentes en mi comunidad,10,0.7787689919556312
+Pacifico,Afrocolombianos,Que necesidades prioritarias existen en su comunidad?,Falta de acceso al agua potable,2,0.747274595547421
+Caribe,Afrocolombianos,Que necesidades prioritarias existen en su comunidad?,No hay recoleccion de basuras personalmente hablando,11,1.0
+Orinoquia,Personas Mayores,Que problemas enfrenta con el acceso a servicios publicos?,Cortes de luz frecuentes (segun mi experiencia),10,1.0
+Orinoquia,Pueblos Indigenas,Que problemas enfrenta con el acceso a servicios publicos?,Nos sentimos abandonados,4,1.0
+Caribe,Jovenes,Que necesidades prioritarias existen en su comunidad?,Viviendas en mal estado personalmente hablando,7,0.9320649818114104
+Amazonas,Pueblos Indigenas,Que propuestas ha escuchado dentro de la comunidad?,No hay participacion comunitaria en mi comunidad,0,0.6746262724511876
+Caribe,Pueblos Indigenas,Que problemas enfrenta con el acceso a servicios publicos?,Nos sentimos abandonados,4,1.0
+Andina,Mujeres,Que problemas enfrenta con el acceso a servicios publicos?,La economia informal domina personalmente hablando,8,0.9000244329495998
+Orinoquia,Personas Mayores,Que problemas enfrenta con el acceso a servicios publicos?,Nos sentimos abandonados,4,0.9875135774015479
+Caribe,Pueblos Indigenas,Como evalua la atencion en salud mental en su zona?,No hay participacion comunitaria,0,1.0
+Caribe,Personas Mayores,Que problemas enfrenta con el acceso a servicios publicos?,No hay participacion comunitaria personalmente hablando,0,0.26000329371458847
+Amazonas,Mujeres,Como evalua la atencion en salud mental en su zona?,Viviendas en mal estado (segun mi experiencia),7,0.8849651509200025
+Amazonas,Jovenes,Que necesidades prioritarias existen en su comunidad?,Falta de confianza en las instituciones personalmente hablando,9,0.5425745706963057
+Orinoquia,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,Faltan medicamentos esenciales personalmente hablando,1,0.9418428007857573
+Andina,Jovenes,Que necesidades prioritarias existen en su comunidad?,Hay demoras en las citas en mi comunidad,3,1.0
+Caribe,Afrocolombianos,Como evalua la atencion en salud mental en su zona?,Los jovenes migran por falta de oportunidades (segun mi experiencia),5,0.805138838391622
+Amazonas,Personas Mayores,Que propuestas ha escuchado dentro de la comunidad?,Nadie responde a nuestras solicitudes en mi comunidad,-1,0.0
+Pacifico,Afrocolombianos,Como evalua la atencion en salud mental en su zona?,Falta de confianza en las instituciones,9,0.9505764044942346
+Amazonas,Personas Mayores,Que propuestas ha escuchado dentro de la comunidad?,La economia informal domina personalmente hablando,8,1.0
+Amazonas,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,No hay recoleccion de basuras personalmente hablando,11,0.9857344442981885
+Orinoquia,Afrocolombianos,Que necesidades prioritarias existen en su comunidad?,No hay recoleccion de basuras,11,1.0
+Caribe,Pueblos Indigenas,Que propuestas ha escuchado dentro de la comunidad?,Hay demoras en las citas (segun mi experiencia),3,0.9782788020711067
+Andina,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,Falta de confianza en las instituciones,9,0.9699475827080098
+Caribe,Pueblos Indigenas,Que necesidades prioritarias existen en su comunidad?,Falta de confianza en las instituciones,9,1.0
+Amazonas,Afrocolombianos,Como evalua la atencion en salud mental en su zona?,La economia informal domina,8,0.9078350548600528
+Orinoquia,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,Nadie responde a nuestras solicitudes personalmente hablando,6,0.024782720065398667
+Orinoquia,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,Viviendas en mal estado (segun mi experiencia),7,1.0
+Andina,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,La economia informal domina,8,0.7600743763937565
+Andina,Pueblos Indigenas,Que problemas enfrenta con el acceso a servicios publicos?,Viviendas en mal estado en mi comunidad,7,0.7344885386948572
+Pacifico,Mujeres,Como evalua la atencion en salud mental en su zona?,Los jovenes migran por falta de oportunidades personalmente hablando,5,0.6229978964106742
+Pacifico,Pueblos Indigenas,Que problemas enfrenta con el acceso a servicios publicos?,Viviendas en mal estado (segun mi experiencia),7,0.917758421759537
+Amazonas,Personas Mayores,Como evalua la atencion en salud mental en su zona?,Falta de acceso al agua potable en mi comunidad,2,0.5403075573426268
+Amazonas,Personas Mayores,Que necesidades prioritarias existen en su comunidad?,La economia informal domina,8,0.7548910079984609
+Amazonas,Pueblos Indigenas,Como evalua la atencion en salud mental en su zona?,La salud mental es ignorada (segun mi experiencia),13,1.0
+Caribe,Mujeres,Que necesidades prioritarias existen en su comunidad?,Faltan medicamentos esenciales en mi comunidad,1,0.9243514832730981
+Caribe,Personas Mayores,Que propuestas ha escuchado dentro de la comunidad?,Nos sentimos abandonados,4,1.0
+Caribe,Afrocolombianos,Que propuestas ha escuchado dentro de la comunidad?,No hay atencion medica cerca,6,1.0
+Andina,Pueblos Indigenas,Que propuestas ha escuchado dentro de la comunidad?,Nos sentimos abandonados personalmente hablando,4,0.6222721548553845
+Orinoquia,Jovenes,Que propuestas ha escuchado dentro de la comunidad?,No hay recoleccion de basuras,11,1.0
+Pacifico,Mujeres,Como evalua la atencion en salud mental en su zona?,Cortes de luz frecuentes en mi comunidad,10,0.6957397994452822
+Pacifico,Pueblos Indigenas,Como evalua la atencion en salud mental en su zona?,No hay participacion comunitaria en mi comunidad,0,0.3489951350254414
+Pacifico,Personas Mayores,Que propuestas ha escuchado dentro de la comunidad?,Nadie responde a nuestras solicitudes,6,0.024780497709667216
+Pacifico,Mujeres,Que necesidades prioritarias existen en su comunidad?,Viviendas en mal estado en mi comunidad,7,0.5427521069156273
+Caribe,Jovenes,Como evalua la atencion en salud mental en su zona?,La salud mental es ignorada en mi comunidad,13,1.0
+Caribe,Personas Mayores,Que propuestas ha escuchado dentro de la comunidad?,Nadie responde a nuestras solicitudes personalmente hablando,6,0.024760510885220754
+Amazonas,Pueblos Indigenas,Que propuestas ha escuchado dentro de la comunidad?,Faltan medicamentos esenciales personalmente hablando,1,0.6716732805059514
+Orinoquia,Personas Mayores,Que necesidades prioritarias existen en su comunidad?,Los jovenes migran por falta de oportunidades (segun mi experiencia),5,0.8328698338442131
+Caribe,Afrocolombianos,Como evalua la atencion en salud mental en su zona?,Falta de confianza en las instituciones,9,1.0
+Orinoquia,Personas Mayores,Que necesidades prioritarias existen en su comunidad?,Falta de acceso al agua potable en mi comunidad,2,0.9280167563469955
+Caribe,Afrocolombianos,Que propuestas ha escuchado dentro de la comunidad?,No hay atencion medica cerca personalmente hablando,6,0.9926980665182479
+Caribe,Afrocolombianos,Como evalua la atencion en salud mental en su zona?,No hay empleo local en mi comunidad,14,0.650063313581006
+Andina,Pueblos Indigenas,Como evalua la atencion en salud mental en su zona?,La economia informal domina en mi comunidad,8,1.0
+Pacifico,Jovenes,Como evalua la atencion en salud mental en su zona?,La economia informal domina personalmente hablando,8,0.8174163668815577
+Andina,Afrocolombianos,Que propuestas ha escuchado dentro de la comunidad?,La economia informal domina,8,0.7672404755348888
+Andina,Jovenes,Que necesidades prioritarias existen en su comunidad?,Faltan medicamentos esenciales personalmente hablando,1,1.0
+Pacifico,Afrocolombianos,Que propuestas ha escuchado dentro de la comunidad?,Hay demoras en las citas,3,0.7597962232414224
+Andina,Jovenes,Que problemas enfrenta con el acceso a servicios publicos?,Faltan medicamentos esenciales personalmente hablando,1,0.9605740635871343
+Amazonas,Pueblos Indigenas,Como evalua la atencion en salud mental en su zona?,No hay recoleccion de basuras en mi comunidad,11,0.9547074477283699
+Andina,Jovenes,Que propuestas ha escuchado dentro de la comunidad?,Falta de confianza en las instituciones en mi comunidad,9,0.6141100590248176
+Orinoquia,Jovenes,Que necesidades prioritarias existen en su comunidad?,Nos sentimos abandonados personalmente hablando,4,1.0
+Amazonas,Mujeres,Que problemas enfrenta con el acceso a servicios publicos?,Viviendas en mal estado personalmente hablando,7,0.7966086032983393
+Amazonas,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,Falta de acceso al agua potable (segun mi experiencia),2,1.0
+Amazonas,Pueblos Indigenas,Que propuestas ha escuchado dentro de la comunidad?,No hay atencion medica cerca,6,0.8763329047391144
+Orinoquia,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,Los jovenes migran por falta de oportunidades,5,1.0
+Pacifico,Jovenes,Como evalua la atencion en salud mental en su zona?,No hay empleo local personalmente hablando,14,1.0
+Orinoquia,Jovenes,Que propuestas ha escuchado dentro de la comunidad?,Nos sentimos abandonados,4,0.8834139442892566
+Caribe,Mujeres,Que problemas enfrenta con el acceso a servicios publicos?,No hay participacion comunitaria en mi comunidad,0,0.36040729103267616
+Pacifico,Pueblos Indigenas,Que problemas enfrenta con el acceso a servicios publicos?,Los jovenes migran por falta de oportunidades (segun mi experiencia),5,0.7292657904066401
+Orinoquia,Jovenes,Que problemas enfrenta con el acceso a servicios publicos?,No hay participacion comunitaria (segun mi experiencia),0,0.3178938099471663
+Amazonas,Personas Mayores,Que necesidades prioritarias existen en su comunidad?,No hay empleo local,14,1.0
+Andina,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,Faltan medicamentos esenciales,1,1.0
+Andina,Afrocolombianos,Que necesidades prioritarias existen en su comunidad?,Los jovenes migran por falta de oportunidades en mi comunidad,5,0.6638421631889427
+Amazonas,Jovenes,Que problemas enfrenta con el acceso a servicios publicos?,Falta de acceso al agua potable (segun mi experiencia),2,1.0
+Pacifico,Jovenes,Que problemas enfrenta con el acceso a servicios publicos?,Faltan medicamentos esenciales en mi comunidad,1,0.9074108613398614
+Andina,Afrocolombianos,Que necesidades prioritarias existen en su comunidad?,Los jovenes migran por falta de oportunidades (segun mi experiencia),5,1.0
+Andina,Afrocolombianos,Como evalua la atencion en salud mental en su zona?,No hay participacion comunitaria,0,0.7149850558912664
+Andina,Personas Mayores,Que propuestas ha escuchado dentro de la comunidad?,Los jovenes migran por falta de oportunidades,5,1.0
+Caribe,Jovenes,Que problemas enfrenta con el acceso a servicios publicos?,No hay atencion medica cerca,6,1.0
+Caribe,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,No hay participacion comunitaria,0,1.0
+Andina,Jovenes,Que necesidades prioritarias existen en su comunidad?,No hay recoleccion de basuras,11,1.0
+Orinoquia,Personas Mayores,Como evalua la atencion en salud mental en su zona?,Falta de confianza en las instituciones,9,1.0
+Orinoquia,Jovenes,Que problemas enfrenta con el acceso a servicios publicos?,Nos sentimos abandonados en mi comunidad,4,0.9461619010906818
+Amazonas,Mujeres,Que problemas enfrenta con el acceso a servicios publicos?,Cortes de luz frecuentes personalmente hablando,10,1.0
+Andina,Personas Mayores,Como evalua la atencion en salud mental en su zona?,Falta de confianza en las instituciones (segun mi experiencia),9,1.0
+Amazonas,Mujeres,Que problemas enfrenta con el acceso a servicios publicos?,Cortes de luz frecuentes,10,1.0
+Andina,Mujeres,Como evalua la atencion en salud mental en su zona?,Hay demoras en las citas,3,0.8610614641409089
+Pacifico,Personas Mayores,Que problemas enfrenta con el acceso a servicios publicos?,Faltan medicamentos esenciales,1,1.0
+Orinoquia,Jovenes,Que propuestas ha escuchado dentro de la comunidad?,Faltan medicamentos esenciales,1,1.0
+Pacifico,Pueblos Indigenas,Que necesidades prioritarias existen en su comunidad?,Hay demoras en las citas en mi comunidad,3,0.8488211820463404
+Pacifico,Mujeres,Como evalua la atencion en salud mental en su zona?,Hay demoras en las citas personalmente hablando,3,0.8378780057901902
+Caribe,Jovenes,Que necesidades prioritarias existen en su comunidad?,Falta de acceso al agua potable,2,1.0
+Orinoquia,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,No hay empleo local personalmente hablando,14,1.0
+Amazonas,Personas Mayores,Que propuestas ha escuchado dentro de la comunidad?,Faltan medicamentos esenciales,1,1.0
+Andina,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,No hay apoyo a emprendimientos,12,1.0
+Andina,Jovenes,Como evalua la atencion en salud mental en su zona?,No hay participacion comunitaria,0,0.8247510395993282
+Caribe,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,No hay recoleccion de basuras en mi comunidad,11,1.0
+Orinoquia,Jovenes,Como evalua la atencion en salud mental en su zona?,Falta de confianza en las instituciones,9,1.0
+Pacifico,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,Nos sentimos abandonados,4,1.0
+Caribe,Mujeres,Como evalua la atencion en salud mental en su zona?,Viviendas en mal estado,7,1.0
+Caribe,Jovenes,Que propuestas ha escuchado dentro de la comunidad?,Nos sentimos abandonados (segun mi experiencia),4,1.0
+Amazonas,Mujeres,Como evalua la atencion en salud mental en su zona?,Nos sentimos abandonados personalmente hablando,4,0.8732032096679585
+Andina,Mujeres,Que problemas enfrenta con el acceso a servicios publicos?,Nos sentimos abandonados (segun mi experiencia),4,0.9985238517727729
+Andina,Afrocolombianos,Como evalua la atencion en salud mental en su zona?,No hay apoyo a emprendimientos personalmente hablando,12,1.0
+Amazonas,Mujeres,Como evalua la atencion en salud mental en su zona?,La salud mental es ignorada (segun mi experiencia),13,1.0
+Pacifico,Personas Mayores,Que problemas enfrenta con el acceso a servicios publicos?,No hay recoleccion de basuras en mi comunidad,11,1.0
+Caribe,Pueblos Indigenas,Que problemas enfrenta con el acceso a servicios publicos?,No hay apoyo a emprendimientos en mi comunidad,12,0.7491270325578505
+Andina,Personas Mayores,Que problemas enfrenta con el acceso a servicios publicos?,No hay recoleccion de basuras personalmente hablando,11,0.9805471578461595
+Pacifico,Mujeres,Como evalua la atencion en salud mental en su zona?,Nadie responde a nuestras solicitudes (segun mi experiencia),-1,0.0
+Amazonas,Jovenes,Que propuestas ha escuchado dentro de la comunidad?,No hay participacion comunitaria,0,1.0
+Orinoquia,Jovenes,Que propuestas ha escuchado dentro de la comunidad?,Viviendas en mal estado,7,1.0
+Amazonas,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,Falta de confianza en las instituciones,9,1.0
+Amazonas,Jovenes,Como evalua la atencion en salud mental en su zona?,Falta de acceso al agua potable,2,0.9650629944624984
+Caribe,Mujeres,Que necesidades prioritarias existen en su comunidad?,Viviendas en mal estado,7,1.0
+Andina,Mujeres,Como evalua la atencion en salud mental en su zona?,Hay demoras en las citas en mi comunidad,3,1.0
+Amazonas,Personas Mayores,Que propuestas ha escuchado dentro de la comunidad?,Viviendas en mal estado,7,1.0
+Orinoquia,Afrocolombianos,Que propuestas ha escuchado dentro de la comunidad?,Falta de acceso al agua potable,2,0.9650629944624984
+Andina,Jovenes,Que necesidades prioritarias existen en su comunidad?,Nadie responde a nuestras solicitudes,6,0.024782055772224403
+Caribe,Pueblos Indigenas,Como evalua la atencion en salud mental en su zona?,Los jovenes migran por falta de oportunidades en mi comunidad,5,1.0
+Pacifico,Mujeres,Que necesidades prioritarias existen en su comunidad?,No hay participacion comunitaria en mi comunidad,0,0.34181233200668176
+Orinoquia,Jovenes,Que problemas enfrenta con el acceso a servicios publicos?,No hay empleo local,14,1.0
+Orinoquia,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,Falta de acceso al agua potable personalmente hablando,2,0.014066524535549633
+Pacifico,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,No hay apoyo a emprendimientos,12,0.9892186162810882
+Caribe,Personas Mayores,Como evalua la atencion en salud mental en su zona?,Hay demoras en las citas (segun mi experiencia),3,1.0
+Caribe,Pueblos Indigenas,Como evalua la atencion en salud mental en su zona?,Nadie responde a nuestras solicitudes personalmente hablando,6,0.024788461314061556
+Caribe,Mujeres,Que necesidades prioritarias existen en su comunidad?,Nos sentimos abandonados,4,0.9215617095762917
+Andina,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,No hay apoyo a emprendimientos personalmente hablando,12,1.0
+Andina,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,Cortes de luz frecuentes en mi comunidad,10,0.6694517530579824
+Caribe,Mujeres,Que problemas enfrenta con el acceso a servicios publicos?,La salud mental es ignorada,13,1.0
+Andina,Personas Mayores,Que propuestas ha escuchado dentro de la comunidad?,Hay demoras en las citas,3,0.6857561589066967
+Amazonas,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,Los jovenes migran por falta de oportunidades (segun mi experiencia),5,0.9793987408308725
+Pacifico,Personas Mayores,Como evalua la atencion en salud mental en su zona?,No hay recoleccion de basuras,11,0.9857344442981885
+Orinoquia,Mujeres,Que problemas enfrenta con el acceso a servicios publicos?,No hay recoleccion de basuras en mi comunidad,11,0.8694791163487974
+Caribe,Afrocolombianos,Como evalua la atencion en salud mental en su zona?,Falta de acceso al agua potable personalmente hablando,2,0.01419970772548173
+Amazonas,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,Nos sentimos abandonados,4,1.0
+Pacifico,Mujeres,Que problemas enfrenta con el acceso a servicios publicos?,Falta de confianza en las instituciones,9,1.0
+Pacifico,Pueblos Indigenas,Que propuestas ha escuchado dentro de la comunidad?,No hay atencion medica cerca,6,1.0
+Pacifico,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,No hay atencion medica cerca en mi comunidad,6,1.0
+Pacifico,Personas Mayores,Que necesidades prioritarias existen en su comunidad?,Faltan medicamentos esenciales,1,0.739184374434856
+Orinoquia,Personas Mayores,Que problemas enfrenta con el acceso a servicios publicos?,Falta de acceso al agua potable personalmente hablando,2,0.01420829609953159
+Orinoquia,Personas Mayores,Que necesidades prioritarias existen en su comunidad?,Los jovenes migran por falta de oportunidades (segun mi experiencia),5,1.0
+Orinoquia,Personas Mayores,Que problemas enfrenta con el acceso a servicios publicos?,No hay apoyo a emprendimientos en mi comunidad,12,0.7116300822115808
+Amazonas,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,No hay participacion comunitaria,0,1.0
+Caribe,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,La economia informal domina,8,1.0
+Amazonas,Pueblos Indigenas,Que necesidades prioritarias existen en su comunidad?,Nos sentimos abandonados,4,0.9038476764158817
+Amazonas,Pueblos Indigenas,Que necesidades prioritarias existen en su comunidad?,Nadie responde a nuestras solicitudes en mi comunidad,-1,0.0
+Caribe,Jovenes,Que necesidades prioritarias existen en su comunidad?,No hay apoyo a emprendimientos,12,1.0
+Pacifico,Jovenes,Como evalua la atencion en salud mental en su zona?,No hay recoleccion de basuras personalmente hablando,11,1.0
+Amazonas,Jovenes,Que necesidades prioritarias existen en su comunidad?,La salud mental es ignorada personalmente hablando,13,0.8708651098668612
+Amazonas,Pueblos Indigenas,Que necesidades prioritarias existen en su comunidad?,No hay atencion medica cerca,6,1.0
+Orinoquia,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,Falta de acceso al agua potable (segun mi experiencia),2,1.0
+Caribe,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,No hay participacion comunitaria,0,1.0
+Andina,Pueblos Indigenas,Como evalua la atencion en salud mental en su zona?,Cortes de luz frecuentes personalmente hablando,10,1.0
+Andina,Jovenes,Como evalua la atencion en salud mental en su zona?,Hay demoras en las citas,3,1.0
+Andina,Jovenes,Que problemas enfrenta con el acceso a servicios publicos?,Los jovenes migran por falta de oportunidades (segun mi experiencia),5,1.0
+Andina,Mujeres,Como evalua la atencion en salud mental en su zona?,Faltan medicamentos esenciales en mi comunidad,1,1.0
+Orinoquia,Personas Mayores,Que problemas enfrenta con el acceso a servicios publicos?,La economia informal domina personalmente hablando,8,0.6560981877451332
+Pacifico,Jovenes,Como evalua la atencion en salud mental en su zona?,No hay participacion comunitaria,0,1.0
+Caribe,Jovenes,Que necesidades prioritarias existen en su comunidad?,No hay atencion medica cerca,6,1.0
+Orinoquia,Afrocolombianos,Que necesidades prioritarias existen en su comunidad?,La salud mental es ignorada,13,1.0
+Amazonas,Jovenes,Que necesidades prioritarias existen en su comunidad?,No hay recoleccion de basuras (segun mi experiencia),11,1.0
+Orinoquia,Jovenes,Como evalua la atencion en salud mental en su zona?,No hay atencion medica cerca,6,1.0
+Caribe,Afrocolombianos,Como evalua la atencion en salud mental en su zona?,La salud mental es ignorada en mi comunidad,13,0.723625466832329
+Orinoquia,Pueblos Indigenas,Como evalua la atencion en salud mental en su zona?,Falta de confianza en las instituciones,9,0.8178467761693928
+Caribe,Afrocolombianos,Como evalua la atencion en salud mental en su zona?,No hay participacion comunitaria,0,1.0
+Caribe,Afrocolombianos,Como evalua la atencion en salud mental en su zona?,Viviendas en mal estado,7,1.0
+Pacifico,Pueblos Indigenas,Como evalua la atencion en salud mental en su zona?,No hay apoyo a emprendimientos,12,1.0
+Amazonas,Pueblos Indigenas,Que propuestas ha escuchado dentro de la comunidad?,Cortes de luz frecuentes (segun mi experiencia),10,0.7451455963245881
+Andina,Jovenes,Que necesidades prioritarias existen en su comunidad?,No hay empleo local personalmente hablando,14,1.0
+Caribe,Afrocolombianos,Que necesidades prioritarias existen en su comunidad?,La economia informal domina,8,1.0
+Orinoquia,Jovenes,Que propuestas ha escuchado dentro de la comunidad?,La economia informal domina,8,1.0
+Amazonas,Mujeres,Que problemas enfrenta con el acceso a servicios publicos?,Viviendas en mal estado (segun mi experiencia),7,1.0
+Amazonas,Mujeres,Como evalua la atencion en salud mental en su zona?,Falta de acceso al agua potable personalmente hablando,2,0.014141369354891818
+Caribe,Pueblos Indigenas,Que necesidades prioritarias existen en su comunidad?,Faltan medicamentos esenciales,1,0.8763489972166585
+Amazonas,Afrocolombianos,Que necesidades prioritarias existen en su comunidad?,Hay demoras en las citas (segun mi experiencia),3,0.749905209257198
+Caribe,Jovenes,Que necesidades prioritarias existen en su comunidad?,Falta de acceso al agua potable,2,1.0
+Amazonas,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,No hay apoyo a emprendimientos en mi comunidad,12,1.0
+Orinoquia,Pueblos Indigenas,Que problemas enfrenta con el acceso a servicios publicos?,La salud mental es ignorada personalmente hablando,13,0.717586675355154
+Amazonas,Personas Mayores,Como evalua la atencion en salud mental en su zona?,Falta de acceso al agua potable,2,0.8712849353415625
+Andina,Personas Mayores,Que necesidades prioritarias existen en su comunidad?,La economia informal domina personalmente hablando,8,0.9342510473310814
+Orinoquia,Afrocolombianos,Como evalua la atencion en salud mental en su zona?,Nadie responde a nuestras solicitudes en mi comunidad,-1,0.0
+Pacifico,Afrocolombianos,Que propuestas ha escuchado dentro de la comunidad?,Falta de confianza en las instituciones,9,1.0
+Orinoquia,Pueblos Indigenas,Que necesidades prioritarias existen en su comunidad?,No hay participacion comunitaria personalmente hablando,0,0.2572376003902881
+Orinoquia,Personas Mayores,Que propuestas ha escuchado dentro de la comunidad?,No hay empleo local (segun mi experiencia),14,0.7986791081812615
+Caribe,Pueblos Indigenas,Que propuestas ha escuchado dentro de la comunidad?,Nos sentimos abandonados (segun mi experiencia),4,0.7964653585560392
+Caribe,Jovenes,Como evalua la atencion en salud mental en su zona?,No hay apoyo a emprendimientos en mi comunidad,12,0.849759391369015
+Caribe,Personas Mayores,Que necesidades prioritarias existen en su comunidad?,No hay recoleccion de basuras personalmente hablando,11,0.9547074477283699
+Andina,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,No hay participacion comunitaria personalmente hablando,0,0.2548474217873553
+Orinoquia,Pueblos Indigenas,Que propuestas ha escuchado dentro de la comunidad?,Hay demoras en las citas,3,0.7812144211620234
+Pacifico,Pueblos Indigenas,Que propuestas ha escuchado dentro de la comunidad?,No hay empleo local (segun mi experiencia),14,1.0
+Amazonas,Pueblos Indigenas,Que necesidades prioritarias existen en su comunidad?,No hay empleo local en mi comunidad,14,0.7947562764741768
+Orinoquia,Pueblos Indigenas,Que problemas enfrenta con el acceso a servicios publicos?,Viviendas en mal estado,7,0.7987696774013301
+Caribe,Personas Mayores,Que propuestas ha escuchado dentro de la comunidad?,Hay demoras en las citas (segun mi experiencia),3,0.9693833713933495
+Caribe,Pueblos Indigenas,Que necesidades prioritarias existen en su comunidad?,Falta de acceso al agua potable personalmente hablando,2,0.014175857720712729
+Orinoquia,Pueblos Indigenas,Que propuestas ha escuchado dentro de la comunidad?,Viviendas en mal estado personalmente hablando,7,1.0
+Pacifico,Mujeres,Que necesidades prioritarias existen en su comunidad?,No hay participacion comunitaria,0,1.0
+Orinoquia,Mujeres,Que necesidades prioritarias existen en su comunidad?,Nos sentimos abandonados en mi comunidad,4,1.0
+Andina,Jovenes,Que propuestas ha escuchado dentro de la comunidad?,Faltan medicamentos esenciales en mi comunidad,1,0.7548480199822624
+Pacifico,Afrocolombianos,Que necesidades prioritarias existen en su comunidad?,Falta de confianza en las instituciones,9,0.6898230340485031
+Orinoquia,Jovenes,Que necesidades prioritarias existen en su comunidad?,Nos sentimos abandonados,4,1.0
+Pacifico,Mujeres,Como evalua la atencion en salud mental en su zona?,Los jovenes migran por falta de oportunidades,5,0.6003472635682497
+Amazonas,Personas Mayores,Que propuestas ha escuchado dentro de la comunidad?,Viviendas en mal estado en mi comunidad,7,0.764098400816961
+Caribe,Afrocolombianos,Que propuestas ha escuchado dentro de la comunidad?,La salud mental es ignorada,13,1.0
+Andina,Afrocolombianos,Como evalua la atencion en salud mental en su zona?,No hay empleo local (segun mi experiencia),14,1.0
+Caribe,Pueblos Indigenas,Que problemas enfrenta con el acceso a servicios publicos?,No hay atencion medica cerca en mi comunidad,6,1.0
+Andina,Afrocolombianos,Que necesidades prioritarias existen en su comunidad?,Falta de acceso al agua potable en mi comunidad,2,1.0
+Caribe,Mujeres,Que necesidades prioritarias existen en su comunidad?,No hay participacion comunitaria,0,0.9756324202509618
+Andina,Personas Mayores,Como evalua la atencion en salud mental en su zona?,La salud mental es ignorada (segun mi experiencia),13,1.0
+Caribe,Personas Mayores,Como evalua la atencion en salud mental en su zona?,Cortes de luz frecuentes,10,1.0
+Pacifico,Mujeres,Como evalua la atencion en salud mental en su zona?,No hay atencion medica cerca personalmente hablando,6,0.848550890342764
+Andina,Jovenes,Que propuestas ha escuchado dentro de la comunidad?,Hay demoras en las citas personalmente hablando,3,0.9092950249057669
+Andina,Personas Mayores,Que propuestas ha escuchado dentro de la comunidad?,No hay apoyo a emprendimientos (segun mi experiencia),12,1.0
+Orinoquia,Afrocolombianos,Que propuestas ha escuchado dentro de la comunidad?,Hay demoras en las citas (segun mi experiencia),3,1.0
+Andina,Mujeres,Que propuestas ha escuchado dentro de la comunidad?,Cortes de luz frecuentes,10,1.0
+Pacifico,Afrocolombianos,Que problemas enfrenta con el acceso a servicios publicos?,Los jovenes migran por falta de oportunidades,5,0.8204131259196688
+Orinoquia,Jovenes,Como evalua la atencion en salud mental en su zona?,La salud mental es ignorada,13,1.0
+Amazonas,Personas Mayores,Que problemas enfrenta con el acceso a servicios publicos?,Cortes de luz frecuentes,10,1.0
+Andina,Personas Mayores,Que problemas enfrenta con el acceso a servicios publicos?,Hay demoras en las citas (segun mi experiencia),3,0.8990945025659924
+Caribe,Mujeres,Que problemas enfrenta con el acceso a servicios publicos?,Nos sentimos abandonados (segun mi experiencia),4,0.9599954362734137
+Andina,Pueblos Indigenas,Que necesidades prioritarias existen en su comunidad?,No hay participacion comunitaria (segun mi experiencia),0,0.34992730367824565
+Orinoquia,Jovenes,Que propuestas ha escuchado dentro de la comunidad?,Faltan medicamentos esenciales,1,0.7631528169962621
