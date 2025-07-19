@@ -7,9 +7,15 @@ def load_data(path="data/processed/survey_clean.csv"):
     df = pd.read_csv(path)
     return df["response_clean"].tolist(), df
 
-def train_topic_model(docs, model_name="all-MiniLM-L6-v2"):
+def train_topic_model(docs, model_name="all-MiniLM-L6-v2", language="spanish"):
     embedding_model = SentenceTransformer(model_name)
-    topic_model = BERTopic(embedding_model=embedding_model, verbose=False)
+    topic_model = BERTopic(
+        embedding_model=embedding_model,
+        verbose=False,
+        language=language,
+        min_topic_size=5,  # Minimum number of documents per topic
+        n_gram_range=(1, 2)  # Allow for bigrams in topic representations
+    )
     topics, probs = topic_model.fit_transform(docs)
     return topic_model, topics, probs
 

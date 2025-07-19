@@ -1,4 +1,147 @@
-# NLP-Driven Territorial Insight Pipeline 🇨🇴  
+# 🔍 SurveyNLP Pipeline
+> Automated Topic Analysis for Territorial Survey Data
+
+[![CI Status](https://github.com/afbeltranr/surveyNLP-policylab/actions/workflows/ci_pipeline.yaml/badge.svg)](https://github.com/afbeltranr/surveyNLP-policylab/actions)
+[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
+[![BERTopic](https://img.shields.io/badge/NLP-BERTopic-orange.svg)](https://maartengr.github.io/BERTopic/)
+
+A modular NLP system that processes qualitative survey responses to extract structured insights for evidence-based policy making. Built with modern NLP techniques and continuous integration practices.
+
+## 🎯 Overview
+
+```mermaid
+flowchart LR
+    subgraph Input[Data Sources]
+        A1[Survey Responses] 
+        A2[Demographic Data]
+    end
+    
+    subgraph Process[NLP Pipeline]
+        B[Text Processing]
+        C[Topic Modeling]
+        D[Analysis]
+    end
+    
+    subgraph Output[Insights]
+        E1[Regional Maps]
+        E2[Topic Clusters]
+        E3[Group Analysis]
+    end
+    
+    Input --> Process
+    Process --> Output
+```
+
+## 📊 Key Insights
+
+### Regional Topic Distribution
+![Regional Topic Heatmap](visuals/region_topic_heatmap.png)
+
+### Population Group Analysis
+![Group Topic Distribution](visuals/group_topic_distribution.png)
+
+### Topic Clusters
+![Topic Distribution](visuals/topic_distribution.png)
+
+### Key Terms by Topic
+<details>
+<summary>Click to expand topic wordclouds</summary>
+
+#### Topic 0
+![Topic 0 Wordcloud](visuals/wordcloud_topic_0.png)
+
+#### Topic 1  
+![Topic 1 Wordcloud](visuals/wordcloud_topic_1.png)
+
+#### Topic 2
+![Topic 2 Wordcloud](visuals/wordcloud_topic_2.png)
+
+#### Topic 3
+![Topic 3 Wordcloud](visuals/wordcloud_topic_3.png)
+
+[... and more topics]
+</details>
+
+## 🛠 Technical Architecture
+
+```mermaid
+graph TD
+    A[Raw Survey Data] --> B[Data Preprocessing]
+    B --> C[Text Cleaning]
+    C --> D[BERTopic Modeling]
+    D --> E[Topic Extraction]
+    E --> F1[Regional Analysis]
+    E --> F2[Group Analysis]
+    E --> F3[Topic Distribution]
+    F1 & F2 & F3 --> G[Visualization Generation]
+    G --> H[Insight Reports]
+```
+
+## 🔄 Pipeline Components
+
+1. **Data Generation & Preprocessing**
+   - Synthetic survey data generation
+   - Text cleaning and standardization
+
+2. **Topic Analysis**
+   - BERTopic modeling
+   - Semantic clustering
+   - Topic labeling
+
+3. **Insight Generation**
+   - Regional distributions
+   - Population group patterns
+   - Topic summaries
+
+4. **Quality Assurance**
+   - Continuous Integration
+   - Automated testing
+   - Validation checkpoints
+
+## 🚀 Quick Start
+
+```bash
+# Clone repository
+git clone https://github.com/afbeltranr/surveyNLP-policylab.git
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run pipeline
+python main.py
+```
+
+## 📈 Results
+
+Key topics identified from the survey responses:
+
+1. 🏥 **Healthcare Access**
+   - Mental health services are underserved (Topic 13)
+   - Limited access to medical facilities (Topic 14)
+   - Essential medication shortages (Topic 2)
+   - Long appointment wait times (Topic 4)
+
+2. 🏗 **Infrastructure Issues**
+   - Frequent power outages (Topic 10)
+   - Limited access to clean water (Topic 12)
+   - Poor waste management (Topic 11)
+   - Housing conditions need improvement (Topic 7)
+
+3. 💼 **Economic Challenges**
+   - Limited local employment opportunities (Topic 0)
+   - Youth migration due to lack of opportunities (Topic 5)
+   - Insufficient support for entrepreneurship (Topic 6)
+
+4. 🤝 **Social Cohesion**
+   - Low community participation (Topic 1)
+   - Feelings of abandonment (Topic 3)
+   - Lack of trust in institutions (Topic 9)
+
+These insights suggest a need for:
+- Improved healthcare infrastructure and access
+- Infrastructure maintenance and development
+- Economic development initiatives
+- Community engagement programs 🇨🇴  
 > Modular & Continuously Delivered NLP System for Qualitative Survey Analysis
 
 This project simulates an automated NLP system that processes and summarizes qualitative territorial survey responses to support human-centered policy development. It emphasizes **flexible automation**, **human-in-the-loop validation**, and **modular CI/CD**, powered by **synthetic data** and scalable Python code.
