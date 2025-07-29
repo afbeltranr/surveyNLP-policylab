@@ -19,7 +19,7 @@ def train_topic_model(docs, model_name="all-MiniLM-L6-v2", language="spanish"):
     topics, probs = topic_model.fit_transform(docs)
     return topic_model, topics, probs
 
-def save_topic_info(topic_model, df, topics, out_path="outputs/topics.csv"):
+def save_topic_info(topic_model, df, topics, out_path="outputs/top ics.csv"):
     df["topic"] = topics
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     df.to_csv(out_path, index=False)

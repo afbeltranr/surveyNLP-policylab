@@ -35,12 +35,28 @@ flowchart LR
 ## 📊 Key Insights
 
 ### Regional Topic Distribution
-![Regional Topic Heatmap](visuals/region_topic_heatmap.png)
+![Regional Topic Distribution](visuals/topic_region_distribution.png)
 
-### Population Group Analysis
-![Group Topic Distribution](visuals/group_topic_distribution.png)
+This heatmap shows how topics are distributed across different regions, with darker colors indicating higher prevalence. This helps identify region-specific issues and shared challenges.
 
-### Topic Clusters
+### Topic Quality Metrics
+![Topic Quality Metrics](visuals/topic_quality_metrics.png)
+
+Three key metrics for evaluating our topic model:
+- **Assignment Probability**: Average confidence in topic assignments
+- **Topic Size**: Number of responses in each topic
+- **Response Diversity**: Variety of unique responses within topics
+
+### Representative Responses
+Top responses for key topics (by confidence score):
+
+| Topic | Representative Response | Confidence |
+|-------|------------------------|------------|
+| Healthcare Access | "La salud mental es ignorada" | 0.988 |
+| Infrastructure | "Cortes de luz frecuentes" | 1.000 |
+| Employment | "No hay empleo local" | 0.995 |
+
+### Topic Distribution
 ![Topic Distribution](visuals/topic_distribution.png)
 
 ### Key Terms by Topic

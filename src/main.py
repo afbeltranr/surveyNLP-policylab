@@ -1,5 +1,6 @@
 from modeling import train_topic_model
 from post_process_topic_model import extract_topic_info, assign_topics_to_docs, summarize_topics
+from topic_analysis import run_analysis
 import pandas as pd
 import os
 
@@ -33,6 +34,10 @@ def main():
         topic_summaries.to_csv("outputs/topic_summaries.csv", index=False)
         
         print("✅ Topic modeling completed successfully!")
+        
+        # Run additional analysis
+        print("\nRunning topic analysis...")
+        run_analysis()
         
     except FileNotFoundError as e:
         print(f"❌ Error: Input file not found - {e}")
