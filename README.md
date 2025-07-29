@@ -34,6 +34,34 @@ flowchart LR
 
 ## 📊 Key Insights
 
+### Topic Identification Guide
+
+Below is a guide to help interpret the topics identified in the analysis:
+
+| Category | Topic ID | Label | Key Issues |
+|----------|----------|-------|------------|
+| Healthcare | 0 | Medication Access | Essential medicine shortages |
+| | 1 | Service Delays | Long waiting times for appointments |
+| | 11 | Mental Health | Limited mental health services |
+| | 14 | Medical Facilities | Distance to medical centers |
+| Infrastructure | 4 | Housing | Poor housing conditions |
+| | 7 | Power Supply | Frequent electricity outages |
+| | 9 | Water Access | Limited access to clean water |
+| | 16 | Water Quality | Potable water concerns |
+| Economy | 5 | Informal Sector | Predominance of informal work |
+| | 12 | Entrepreneurship | Lack of business support |
+| | 13 | Local Employment | Limited job opportunities |
+| Social | 3 | Youth Migration | Youth leaving for opportunities |
+| | 10 | Community Participation | Low civic engagement |
+| Governance | 2 | Institutional Trust | Community-government relations |
+| | 6 | Institutional Trust | Lack of confidence in institutions |
+| | 15 | Civic Engagement | Limited community participation |
+| | 17 | Response Time | Slow institutional response |
+| | 18 | Public Communication | Poor communication channels |
+| Services | 8 | Waste Management | Inadequate waste collection |
+
+This categorization helps organize the findings into meaningful themes for policy planning.
+
 ### Regional Topic Distribution
 ![Regional Topic Distribution](visuals/region_topic_heatmap.png)
 
