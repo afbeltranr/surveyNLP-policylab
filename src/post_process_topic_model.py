@@ -6,11 +6,21 @@ def extract_topic_info(topic_model, top_n_words: int = 5) -> pd.DataFrame:
     """
     Extracts topic info with top_n_words per topic.
     """
+    # Get basic topic info
     topic_info = topic_model.get_topic_info()
     topic_info = topic_info[topic_info.Topic != -1]  # exclude outliers
-    topic_info["Top_Words"] = topic_info["Representation"].apply(
-        lambda x: ", ".join([term[0] for term in x[:top_n_words]]) if isinstance(x, list) else x
-    )
+    
+    # Extract words for each topic
+    topic_words = {}
+    for topic in topic_info["Topic"]:
+        words = topic_model.get_topic(topic)
+        if words:  # Skip empty topics
+            words = [word for word, _ in words[:top_n_words]]
+            topic_words[topic] = ", ".join(words)
+    
+    # Add words to dataframe
+    topic_info["Top_Words"] = topic_info["Topic"].map(topic_words)
+    
     return topic_info[["Topic", "Top_Words", "Count"]]
 
 def assign_topics_to_docs(df: pd.DataFrame, topics: list, probs: list) -> pd.DataFrame:

@@ -35,48 +35,68 @@ flowchart LR
 ## 📊 Key Insights
 
 ### Regional Topic Distribution
-![Regional Topic Distribution](visuals/topic_region_distribution.png)
+![Regional Topic Distribution](visuals/region_topic_heatmap.png)
 
-This heatmap shows how topics are distributed across different regions, with darker colors indicating higher prevalence. This helps identify region-specific issues and shared challenges.
+This heatmap shows how topics are distributed across different regions, with darker colors indicating higher prevalence. The values are normalized by region to show the proportion of responses within each area, making it easier to identify region-specific challenges and shared issues.
 
-### Topic Quality Metrics
-![Topic Quality Metrics](visuals/topic_quality_metrics.png)
-
-Three key metrics for evaluating our topic model:
-- **Assignment Probability**: Average confidence in topic assignments
-- **Topic Size**: Number of responses in each topic
-- **Response Diversity**: Variety of unique responses within topics
-
-### Representative Responses
-Top responses for key topics (by confidence score):
-
-| Topic | Representative Response | Confidence |
-|-------|------------------------|------------|
-| Healthcare Access | "La salud mental es ignorada" | 0.988 |
-| Infrastructure | "Cortes de luz frecuentes" | 1.000 |
-| Employment | "No hay empleo local" | 0.995 |
-
-### Topic Distribution
+### Topic Distribution Overview
 ![Topic Distribution](visuals/topic_distribution.png)
 
-### Key Terms by Topic
+The bar chart above shows the distribution of responses across identified topics. Key topics include:
+1. Access to Water and Basic Services (Topics 9, 16)
+2. Community Participation (Topics 10, 15)
+3. Healthcare Access (Topics 0, 14)
+4. Infrastructure Issues (Topics 7, 8)
+5. Institutional Response (Topics 17, 18)
+
+### Population Group Analysis
+![Group Topic Distribution](visuals/group_topic_distribution.png)
+
+This visualization shows how different population groups experience and report various challenges, highlighting potential disparities in access to services and resources across demographic segments.
+
+### Topic Word Clouds
+Below are word clouds showing the key terms associated with each topic:
+
 <details>
 <summary>Click to expand topic wordclouds</summary>
 
-#### Topic 0
+#### Basic Services & Infrastructure
+![Topic 9 Wordcloud](visuals/wordcloud_topic_9.png)
+Key theme: Water access and basic infrastructure
+
+![Topic 7 Wordcloud](visuals/wordcloud_topic_7.png)
+Key theme: Public utilities and service interruptions
+
+#### Community & Participation
+![Topic 10 Wordcloud](visuals/wordcloud_topic_10.png)
+Key theme: Community participation and engagement
+
+![Topic 15 Wordcloud](visuals/wordcloud_topic_15.png)
+Key theme: Local governance and community organization
+
+#### Healthcare & Social Services
 ![Topic 0 Wordcloud](visuals/wordcloud_topic_0.png)
+Key theme: Healthcare access and medication availability
 
-#### Topic 1  
-![Topic 1 Wordcloud](visuals/wordcloud_topic_1.png)
+![Topic 14 Wordcloud](visuals/wordcloud_topic_14.png)
+Key theme: Medical services and facilities
 
-#### Topic 2
-![Topic 2 Wordcloud](visuals/wordcloud_topic_2.png)
+#### Economic Issues
+![Topic 13 Wordcloud](visuals/wordcloud_topic_13.png)
+Key theme: Employment and economic opportunities
 
-#### Topic 3
-![Topic 3 Wordcloud](visuals/wordcloud_topic_3.png)
-
-[... and more topics]
 </details>
+
+### Representative Responses
+Key responses identified for major topics:
+
+| Topic Area | Representative Response | Common Across Regions |
+|------------|------------------------|---------------------|
+| Basic Services | "Falta de acceso al agua potable" | Yes |
+| Healthcare | "No hay atención médica cerca" | Yes |
+| Community | "No hay participación comunitaria" | No |
+| Infrastructure | "Cortes de luz frecuentes" | Yes |
+| Economic | "No hay empleo local" | Yes |
 
 ## 🛠 Technical Architecture
 

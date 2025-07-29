@@ -2,10 +2,26 @@ import pandas as pd
 import re
 import os
 
-# Define basic cleaning function
+from nltk.tokenize import word_tokenize
+import nltk
+nltk.download('punkt')
+
+# Spanish stop words to exclude from removal
+KEEP_WORDS = {'no', 'hay', 'sin', 'sobre', 'muy', 'mucho', 'muchos', 'mucha', 'muchas'}
+
+# Define Spanish stop words (excluding KEEP_WORDS)
+STOP_WORDS = {
+    'mi', 'segun', 'personalmente', 'hablando', 'la', 'el', 'en', 'y', 'a', 'los', 'del',
+    'se', 'las', 'por', 'un', 'para', 'con', 'una', 'su', 'al', 'lo', 'como',
+    'mas', 'pero', 'sus', 'le', 'ya', 'o', 'este', 'si', 'porque', 'esta',
+    'entre', 'cuando', 'este', 'esto', 'esta', 'estos', 'estas'
+} - KEEP_WORDS
+
 def clean_response(text: str) -> str:
+    # Convert to lowercase
     text = text.lower()
-    text = re.sub(r"[^\w\s]", "", text)  # remove punctuation
+    
+    # Remove noise patterns
     noise_patterns = [
         r"\bsegun mi experiencia\b",
         r"\ben mi comunidad\b",
@@ -13,7 +29,15 @@ def clean_response(text: str) -> str:
     ]
     for pattern in noise_patterns:
         text = re.sub(pattern, "", text)
+    
+    # Tokenize and remove stop words while keeping important negations and descriptors
+    tokens = word_tokenize(text)
+    tokens = [token for token in tokens if token not in STOP_WORDS]
+    
+    # Rejoin tokens and standardize spacing
+    text = " ".join(tokens)
     text = re.sub(r"\s+", " ", text).strip()
+    
     return text
 
 def preprocess_dataset(input_path="data/raw/survey_data.csv", output_path="data/processed/survey_clean.csv"):
