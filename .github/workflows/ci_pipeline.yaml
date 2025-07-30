@@ -28,6 +28,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install pytest
         pip install -r requirements.txt
+        python -m spacy download es_core_news_md
         pip install -e .
 
     - name: ✅ Run unit tests
